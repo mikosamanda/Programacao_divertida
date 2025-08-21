@@ -1,6 +1,10 @@
 body {
     background-color: dodgerblue;
     color: antiquewhite;
+<<<<<<< HEAD
+    font-family: Caprasimo;
+=======
     font-family: 'Caprasimo', cursive;
     font-size: 30 px;
+>>>>>>> 00b38cc4316b889dd3b1b7e855d3026f8d197adf
 }
